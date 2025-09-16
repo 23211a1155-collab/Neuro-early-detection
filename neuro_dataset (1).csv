@@ -1,0 +1,501 @@
+age,memory_score,sleep_hours,family_history,diagnosis
+78,27,10,1,At Risk
+68,4,10,0,At Risk
+54,14,6,0,Healthy
+82,16,10,0,Healthy
+47,29,6,0,Healthy
+60,13,10,1,At Risk
+78,29,3,0,At Risk
+58,19,5,0,Healthy
+62,4,10,1,At Risk
+50,11,5,1,Early Stage
+50,15,5,1,At Risk
+63,25,7,1,Healthy
+75,25,10,0,Healthy
+79,15,4,0,At Risk
+63,20,7,1,Healthy
+42,6,4,0,At Risk
+61,3,5,0,At Risk
+41,0,5,0,At Risk
+63,29,7,1,Healthy
+83,29,7,0,Healthy
+69,4,4,1,Early Stage
+77,22,6,0,Healthy
+41,25,4,0,Healthy
+60,9,7,0,Healthy
+72,21,8,1,At Risk
+51,4,7,0,Healthy
+61,3,8,1,At Risk
+83,1,3,1,Early Stage
+64,19,7,1,Healthy
+88,30,3,0,At Risk
+66,9,6,0,At Risk
+81,25,4,0,At Risk
+67,18,8,0,Healthy
+55,25,4,1,At Risk
+54,0,3,1,Early Stage
+86,23,8,1,At Risk
+90,4,4,0,Early Stage
+83,12,7,1,Early Stage
+42,3,5,0,At Risk
+76,15,3,1,Early Stage
+90,23,4,0,At Risk
+46,15,3,0,Healthy
+60,22,9,1,Healthy
+48,1,3,1,Early Stage
+78,16,8,1,At Risk
+57,27,9,1,Healthy
+43,26,10,0,Healthy
+64,19,8,1,Healthy
+53,23,5,1,At Risk
+89,11,9,1,Early Stage
+48,17,10,0,Healthy
+65,2,7,0,Healthy
+41,27,3,1,At Risk
+59,0,4,0,At Risk
+67,0,6,1,Early Stage
+86,28,3,0,At Risk
+46,18,10,0,Healthy
+83,10,3,0,Early Stage
+47,4,5,0,At Risk
+86,11,7,1,Early Stage
+74,2,6,1,Early Stage
+53,0,9,1,At Risk
+56,0,9,0,Healthy
+75,7,9,1,Early Stage
+89,9,10,1,Early Stage
+79,10,8,1,Early Stage
+43,11,8,0,Healthy
+41,28,4,0,Healthy
+45,12,6,0,Healthy
+81,11,9,1,Early Stage
+43,30,8,1,Healthy
+68,13,10,1,Early Stage
+57,1,4,0,At Risk
+65,28,7,0,Healthy
+83,18,4,1,Early Stage
+73,17,8,0,Healthy
+49,2,5,0,At Risk
+75,22,10,0,Healthy
+53,16,5,0,Healthy
+70,25,9,1,At Risk
+87,7,5,0,Early Stage
+54,28,9,0,Healthy
+47,25,9,0,Healthy
+53,9,8,0,Healthy
+62,25,5,1,At Risk
+79,29,9,1,At Risk
+60,1,6,0,Healthy
+55,18,7,0,Healthy
+84,8,4,0,Early Stage
+57,6,4,0,At Risk
+86,3,8,0,At Risk
+63,25,5,0,Healthy
+65,20,5,1,At Risk
+64,17,9,0,Healthy
+84,12,10,1,Early Stage
+80,10,3,1,Early Stage
+68,28,9,0,Healthy
+54,23,7,1,Healthy
+84,3,6,1,Early Stage
+40,24,4,1,At Risk
+64,20,9,1,Healthy
+46,28,3,1,At Risk
+48,24,3,1,At Risk
+63,3,9,0,Healthy
+40,9,8,1,At Risk
+83,4,4,1,Early Stage
+47,8,8,1,At Risk
+63,23,6,0,Healthy
+50,2,3,1,Early Stage
+90,16,3,0,At Risk
+56,2,7,1,At Risk
+47,15,6,0,Healthy
+74,3,3,0,Early Stage
+74,17,6,1,At Risk
+72,16,4,1,Early Stage
+44,6,5,0,At Risk
+81,23,3,1,Early Stage
+78,22,7,0,Healthy
+80,29,4,0,At Risk
+67,4,9,0,At Risk
+46,11,6,0,Healthy
+48,16,9,0,Healthy
+47,22,8,1,Healthy
+51,12,4,0,At Risk
+73,22,9,0,Healthy
+72,24,10,1,At Risk
+87,2,10,0,At Risk
+62,8,3,1,Early Stage
+63,29,6,1,Healthy
+76,16,5,1,Early Stage
+74,16,4,0,At Risk
+83,29,3,0,At Risk
+79,19,7,0,Healthy
+61,15,8,1,Healthy
+66,24,6,0,Healthy
+74,21,4,1,Early Stage
+40,12,10,0,Healthy
+74,26,4,1,Early Stage
+76,18,5,0,At Risk
+86,16,10,0,Healthy
+53,3,5,0,At Risk
+42,11,7,1,At Risk
+40,28,8,1,Healthy
+44,8,7,0,Healthy
+65,18,3,0,Healthy
+53,11,3,1,Early Stage
+78,8,7,1,Early Stage
+66,6,8,1,Early Stage
+48,27,7,0,Healthy
+54,13,8,1,At Risk
+54,30,8,0,Healthy
+65,19,9,1,Healthy
+81,18,10,0,Healthy
+52,25,6,1,Healthy
+90,14,8,1,Early Stage
+71,15,5,1,Early Stage
+78,20,8,1,At Risk
+88,4,8,1,Early Stage
+71,2,8,0,At Risk
+43,11,9,1,At Risk
+69,24,10,1,At Risk
+76,19,9,1,At Risk
+62,26,3,0,Healthy
+78,20,9,1,At Risk
+84,3,5,0,Early Stage
+54,20,5,1,At Risk
+82,22,9,1,At Risk
+68,15,10,0,Healthy
+75,24,7,1,At Risk
+52,6,6,0,Healthy
+71,12,10,0,At Risk
+46,20,9,1,Healthy
+90,9,8,0,At Risk
+61,25,4,1,At Risk
+67,6,6,1,Early Stage
+41,13,6,0,Healthy
+81,30,5,0,At Risk
+84,25,6,0,Healthy
+45,4,9,0,Healthy
+67,2,8,1,Early Stage
+67,22,8,1,At Risk
+83,28,3,0,At Risk
+83,10,8,1,Early Stage
+59,10,10,1,At Risk
+69,17,8,1,At Risk
+50,14,5,1,Early Stage
+67,11,8,0,At Risk
+64,8,3,0,At Risk
+78,9,4,1,Early Stage
+72,25,9,0,Healthy
+40,11,5,0,At Risk
+66,16,10,0,Healthy
+52,28,4,1,At Risk
+80,5,5,1,Early Stage
+42,6,7,1,At Risk
+78,13,6,0,At Risk
+45,12,7,1,At Risk
+47,7,8,1,At Risk
+66,9,4,0,Early Stage
+48,8,8,1,At Risk
+76,17,6,1,At Risk
+72,26,5,0,At Risk
+90,25,6,0,Healthy
+81,1,3,0,Early Stage
+83,4,6,1,Early Stage
+63,28,3,1,At Risk
+54,4,6,1,At Risk
+71,5,9,0,At Risk
+71,18,3,0,At Risk
+63,7,4,1,Early Stage
+80,15,8,1,At Risk
+88,12,10,0,At Risk
+88,0,8,0,At Risk
+51,21,7,0,Healthy
+78,19,8,0,Healthy
+41,16,5,1,At Risk
+42,30,9,0,Healthy
+88,6,6,1,Early Stage
+76,24,7,1,At Risk
+88,12,5,1,Early Stage
+56,3,5,0,At Risk
+88,3,3,0,Early Stage
+41,5,8,0,Healthy
+41,27,4,0,Healthy
+67,30,10,1,At Risk
+62,18,4,0,Healthy
+76,28,7,0,Healthy
+71,11,9,1,Early Stage
+72,21,4,0,At Risk
+40,6,6,1,At Risk
+58,26,4,1,At Risk
+41,9,7,1,At Risk
+83,25,10,1,At Risk
+65,18,4,1,At Risk
+71,6,6,1,Early Stage
+45,29,3,1,At Risk
+71,2,9,1,Early Stage
+43,12,7,0,Healthy
+50,12,3,0,At Risk
+56,17,3,0,Healthy
+77,27,3,0,At Risk
+63,29,5,1,At Risk
+44,25,9,0,Healthy
+73,19,10,1,At Risk
+45,27,8,0,Healthy
+61,7,9,0,Healthy
+50,28,5,0,Healthy
+87,30,8,1,At Risk
+55,8,9,0,Healthy
+72,6,3,1,Early Stage
+48,0,7,1,At Risk
+45,2,8,0,Healthy
+55,12,6,0,Healthy
+68,27,6,0,Healthy
+42,29,4,1,At Risk
+59,24,8,0,Healthy
+75,30,7,1,At Risk
+58,27,10,1,Healthy
+65,16,5,0,Healthy
+42,24,3,0,Healthy
+58,23,4,1,At Risk
+59,0,6,1,At Risk
+71,5,5,1,Early Stage
+46,20,5,0,Healthy
+80,5,3,1,Early Stage
+72,25,10,0,Healthy
+79,11,10,1,Early Stage
+78,12,8,1,Early Stage
+57,12,6,0,Healthy
+79,28,10,1,At Risk
+40,14,7,0,Healthy
+50,20,10,0,Healthy
+67,15,5,1,Early Stage
+64,21,3,0,Healthy
+89,20,7,0,Healthy
+62,10,8,1,At Risk
+70,27,6,0,Healthy
+69,4,8,0,At Risk
+81,3,5,0,Early Stage
+74,2,7,1,Early Stage
+46,18,7,0,Healthy
+55,19,7,1,Healthy
+65,24,5,1,At Risk
+87,17,5,0,At Risk
+88,14,8,0,At Risk
+41,8,4,0,At Risk
+40,16,8,1,Healthy
+87,13,6,0,At Risk
+51,14,3,0,At Risk
+44,30,7,0,Healthy
+76,0,4,0,Early Stage
+71,20,3,0,At Risk
+48,21,4,1,At Risk
+80,21,10,1,At Risk
+74,2,10,0,At Risk
+58,15,9,0,Healthy
+87,22,10,0,Healthy
+55,24,8,0,Healthy
+42,10,10,1,At Risk
+59,11,5,0,At Risk
+63,9,7,1,At Risk
+72,15,8,1,At Risk
+63,7,3,0,At Risk
+50,5,9,1,At Risk
+88,11,9,1,Early Stage
+47,23,9,1,Healthy
+75,27,3,1,Early Stage
+77,20,3,0,At Risk
+79,7,3,0,Early Stage
+59,25,3,1,At Risk
+74,27,9,0,Healthy
+87,3,9,0,At Risk
+64,25,4,0,Healthy
+74,7,8,0,At Risk
+64,25,7,0,Healthy
+68,27,10,1,At Risk
+57,17,10,0,Healthy
+85,27,5,0,At Risk
+57,27,9,0,Healthy
+41,4,5,0,At Risk
+74,8,8,1,Early Stage
+55,3,8,1,At Risk
+80,26,5,1,Early Stage
+75,21,9,1,At Risk
+72,30,5,0,At Risk
+43,16,10,1,Healthy
+72,8,4,0,Early Stage
+53,0,10,0,Healthy
+60,20,6,0,Healthy
+87,19,9,0,Healthy
+59,12,9,0,Healthy
+47,27,7,1,Healthy
+46,15,3,1,At Risk
+42,28,6,1,Healthy
+56,12,8,1,At Risk
+72,13,9,0,At Risk
+87,2,5,1,Early Stage
+51,28,6,0,Healthy
+90,5,7,1,Early Stage
+61,17,8,0,Healthy
+61,18,3,0,Healthy
+85,4,3,1,Early Stage
+69,14,7,0,At Risk
+77,24,7,0,Healthy
+77,1,5,1,Early Stage
+84,9,9,0,At Risk
+90,23,3,1,Early Stage
+47,29,8,1,Healthy
+66,17,6,1,At Risk
+66,26,8,0,Healthy
+73,12,4,0,Early Stage
+60,4,4,0,At Risk
+69,22,7,1,At Risk
+72,23,5,0,At Risk
+67,0,4,1,Early Stage
+86,21,3,1,Early Stage
+72,0,8,0,At Risk
+44,17,8,1,Healthy
+87,14,7,0,At Risk
+58,16,9,0,Healthy
+43,10,9,0,Healthy
+74,20,6,0,Healthy
+88,25,7,0,Healthy
+56,30,10,1,Healthy
+83,24,6,1,At Risk
+67,21,10,1,At Risk
+69,26,9,0,Healthy
+68,26,7,0,Healthy
+85,16,10,0,Healthy
+45,12,7,1,At Risk
+74,0,7,0,At Risk
+80,1,9,1,Early Stage
+76,8,6,1,Early Stage
+63,2,6,0,Healthy
+68,30,7,0,Healthy
+88,0,4,1,Early Stage
+85,20,5,0,At Risk
+70,15,9,1,At Risk
+74,22,5,0,At Risk
+72,5,5,0,Early Stage
+60,27,6,1,Healthy
+71,16,6,0,Healthy
+62,4,4,1,Early Stage
+72,30,5,0,At Risk
+42,4,5,1,Early Stage
+57,5,7,1,At Risk
+64,2,6,0,Healthy
+81,20,5,1,Early Stage
+70,22,8,0,Healthy
+42,4,4,0,At Risk
+79,20,10,0,Healthy
+85,4,8,1,Early Stage
+63,9,8,1,At Risk
+89,9,10,0,At Risk
+71,18,9,0,Healthy
+86,16,9,1,At Risk
+61,20,4,0,Healthy
+62,13,8,0,Healthy
+41,8,5,1,Early Stage
+66,13,6,0,At Risk
+81,0,4,1,Early Stage
+41,18,7,0,Healthy
+65,12,10,1,At Risk
+56,12,8,0,Healthy
+79,3,4,0,Early Stage
+72,29,3,1,Early Stage
+48,0,3,0,At Risk
+82,16,9,1,At Risk
+87,7,10,0,At Risk
+78,1,6,1,Early Stage
+68,27,5,1,Early Stage
+81,30,6,1,At Risk
+65,7,6,1,At Risk
+74,6,6,0,At Risk
+89,25,10,0,Healthy
+64,25,6,1,Healthy
+63,1,7,1,At Risk
+52,21,10,1,Healthy
+46,21,7,0,Healthy
+75,2,10,0,At Risk
+84,26,9,0,Healthy
+59,17,4,0,Healthy
+40,11,3,1,Early Stage
+47,0,6,1,At Risk
+85,21,9,1,At Risk
+55,11,4,0,At Risk
+53,4,3,0,At Risk
+51,29,8,0,Healthy
+90,29,5,1,Early Stage
+62,26,7,1,Healthy
+54,24,8,0,Healthy
+67,16,10,1,At Risk
+73,15,3,0,At Risk
+41,30,8,0,Healthy
+71,14,5,1,Early Stage
+62,22,9,0,Healthy
+61,14,3,1,Early Stage
+90,4,8,0,At Risk
+64,20,7,1,Healthy
+61,13,7,1,At Risk
+61,1,4,1,Early Stage
+88,10,8,0,At Risk
+81,18,6,0,Healthy
+45,6,8,1,At Risk
+54,5,9,1,At Risk
+82,27,3,0,At Risk
+76,1,3,0,Early Stage
+72,5,9,0,At Risk
+47,17,8,1,Healthy
+83,1,9,0,At Risk
+83,17,5,0,At Risk
+44,29,10,1,Healthy
+78,14,9,0,At Risk
+43,26,7,0,Healthy
+45,18,9,0,Healthy
+84,30,3,1,Early Stage
+71,1,7,1,Early Stage
+69,19,3,1,Early Stage
+86,24,4,1,Early Stage
+74,5,6,1,Early Stage
+79,0,3,1,Early Stage
+55,23,7,1,Healthy
+52,14,4,0,At Risk
+89,27,3,0,At Risk
+81,29,5,1,Early Stage
+69,22,9,0,Healthy
+58,9,6,0,Healthy
+56,18,3,1,At Risk
+58,16,4,0,Healthy
+67,4,5,0,Early Stage
+65,28,8,0,Healthy
+76,3,4,0,Early Stage
+65,9,9,0,Healthy
+62,23,4,1,At Risk
+48,16,5,1,At Risk
+51,9,4,1,Early Stage
+40,16,5,0,Healthy
+40,27,3,1,At Risk
+86,19,10,0,Healthy
+73,23,5,0,At Risk
+71,4,5,0,Early Stage
+87,1,6,0,At Risk
+64,5,5,1,Early Stage
+79,20,5,1,Early Stage
+84,1,8,0,At Risk
+40,12,10,1,At Risk
+55,29,3,0,Healthy
+78,10,9,1,Early Stage
+44,10,6,1,At Risk
+61,15,8,0,Healthy
+68,10,7,1,Early Stage
+42,18,10,0,Healthy
+51,14,3,1,Early Stage
+65,24,3,0,Healthy
+55,22,7,0,Healthy
+90,22,9,1,At Risk
+76,15,5,1,Early Stage
+61,30,8,0,Healthy
+68,10,4,1,Early Stage
+53,21,6,1,Healthy
